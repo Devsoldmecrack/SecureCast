@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e1a33"/>
+      <stop offset="100%" stop-color="#1a2744"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="256" rx="48" fill="url(#bg)"/>
+  <g fill="none" stroke="#6fb1ff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="56" y="112" width="144" height="96" rx="16" fill="#22314d" stroke="#7fb8ff"/>
+    <path d="M88 116 V88 a40 40 0 0 1 80 0 v28"/>
+    <circle cx="128" cy="160" r="12" fill="#9fd0ff" stroke="#9fd0ff"/>
+    <path d="M128 172 v20"/>
+  </g>
+  <text x="128" y="236" text-anchor="middle" font-family="Segoe UI, Roboto, Arial" font-size="22" fill="#9aa3ad">SecureCast</text>
+</svg>
